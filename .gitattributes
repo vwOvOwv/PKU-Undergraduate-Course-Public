@@ -1,0 +1,16 @@
+Reaction filter=lfs diff=lfs merge=lfs -text
+Model/BZ filter=lfs diff=lfs merge=lfs -text
+Model.gif filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Mathematical-Modeling-in-the-Life-Sciences/Final filter=lfs diff=lfs merge=lfs -text
+Project/Gif filter=lfs diff=lfs merge=lfs -text
+and filter=lfs diff=lfs merge=lfs -text
+Figures/2 filter=lfs diff=lfs merge=lfs -text
+BZ filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Mathematical-Modeling-in-the-Life-Sciences/Final[[:space:]]Project/Gif[[:space:]]and[[:space:]]Figures/2[[:space:]]BZ[[:space:]]Reaction[[:space:]]Model/BZ[[:space:]]Reaction[[:space:]]Model.gif filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week5/细胞培养+免疫荧光-（细胞课件）.pdf filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week6/图1.ai filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week6/图1.pdf filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week6/细胞周期中微管和微丝的动态变化.docx filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week6/细胞周期中微管和微丝的动态变化.pdf filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week8/实验结果与分析.pptx filter=lfs diff=lfs merge=lfs -text
+2024-Spring-Cell-Biology-Lab./Week8/小组实验报告.docx filter=lfs diff=lfs merge=lfs -text
