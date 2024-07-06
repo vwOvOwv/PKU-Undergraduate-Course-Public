@@ -1,0 +1,31 @@
+{
+ 
+    "version": "0.2.0",
+ 
+    "configurations": [
+ 
+        {
+ 
+            "type": "lldb",
+ 
+            "request": "launch",
+ 
+            "name": "Debug",
+ 
+            //"program": "${workspaceFolder}/test.out",
+ 
+            //上一行是官方写法，但是不同的cpp调试都要改配置，非常麻烦
+ 
+            "program": "${workspaceFolder}/${fileBasenameNoExtension}",
+ 
+            "args": [],
+ 
+            "cwd": "${workspaceFolder}",
+ 
+            "preLaunchTask": "C/C++: gcc 生成活动文件"
+ 
+        }
+ 
+    ]
+ 
+}
