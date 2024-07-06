@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Music/beatenemy.wav</file>
+        <file>Music/breakbrick.wav</file>
+        <file>Music/clicked.wav</file>
+        <file>Music/die.wav</file>
+        <file>Music/fail.wav</file>
+        <file>Music/finish.wav</file>
+        <file>Music/gamebegin.wav</file>
+        <file>Music/getcoin.wav</file>
+        <file>Music/mainmusic.wav</file>
+    </qresource>
+</RCC>

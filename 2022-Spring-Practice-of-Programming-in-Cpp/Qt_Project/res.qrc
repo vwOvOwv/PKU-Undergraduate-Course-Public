@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/appPic.png</file>
+        <file>Image/icon.ico</file>
+        <file>Image/beginScene.jpg</file>
+        <file>Image/aboutBtn.png</file>
+        <file>Image/settingBtn.png</file>
+        <file>Image/startBtn.png</file>
+        <file>Image/exitBtn.png</file>
+        <file>Image/backBtn.png</file>
+        <file>Image/AboutScene.png</file>
+        <file>Image/continueBtn.png</file>
+        <file>Image/musicBtn.png</file>
+        <file>Image/pauseBtn.png</file>
+        <file>Image/ground.png</file>
+        <file>Image/background.png</file>
+        <file>Image/moveleft.png</file>
+        <file>Image/moveright.png</file>
+        <file>Image/pauseScene.png</file>
+        <file>Image/castle.png</file>
+        <file>Image/coin.png</file>
+        <file>Image/longpipe.png</file>
+        <file>Image/mariodie.png</file>
+        <file>Image/normalbrick.png</file>
+        <file>Image/shortpipe.png</file>
+        <file>Image/unknownbrick.png</file>
+        <file>Image/unknownbrickafter.png</file>
+        <file>Image/openScene.png</file>
+        <file>Image/monsterleft.png</file>
+        <file>Image/monsterright.png</file>
+    </qresource>
+</RCC>
