@@ -1,13 +1,12 @@
-# PKU Undergraduate Course Resources
-## Introduction
-This repo contains courses on Computer Science and Life Sciences (see another branch).
-## Note
-Due to copyright issues and personal information protection, most slides and group assignments are **NOT included** in the repo.  
-Please do **NOT** use these resources for commercial purposes.
+# 北京大学本科课程资源共享
+## 简介
+该仓库包含了北京大学信息科学技术学院计算机科学与技术系和生命科学学院（参见另一分支）的部分核心课程。
+## 注意
+为了保护版权和个人隐私，绝大部分课程的课件和小组作业**不包含**仓库中。请**不要**将课程资源用于商业用途。
+## 下载
+如果需要下载特定课程的文件夹，请使用 https://yehonal.github.io/DownGit/#/home 。
+## 联系方式
+如果你有任何问题或者想要获取课程课件等信息（请先证明你是北京大学的学生），请在讨论区留言或通过邮箱联系我:)  
+我的邮箱：2100012289@stu.pku.edu.cn
 
-## Contact Information
-If you have any questions or would like to obtain the slides (you should prove that you're a PKU student) and further information, please contact me via email :)  
-
-My email: 2100012289@stu.pku.edu.cn  
-
-### Thank you for visiting (and for the stars 🌟). I hope this repo will make your life at PKU easier.  
+### 感谢你的访问和收藏，希望能够帮助你在北大的生活更加轻松愉快！
