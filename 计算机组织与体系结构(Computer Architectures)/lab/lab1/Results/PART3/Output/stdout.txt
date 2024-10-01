@@ -1,0 +1,432 @@
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67397
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sortsimpleDDR4 configs/proj1/simple.py tests/labexe/shell_sort --cpu simple --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67393
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sortsimpleDDR3 configs/proj1/simple.py tests/labexe/shell_sort --cpu simple --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67394
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmsimpleDDR3 configs/proj1/simple.py tests/labexe/gemm --cpu simple --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67401
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sortsimpleDDR5 configs/proj1/simple.py tests/labexe/shell_sort --cpu simple --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67398
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmsimpleDDR4 configs/proj1/simple.py tests/labexe/gemm --cpu simple --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67402
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmsimpleDDR5 configs/proj1/simple.py tests/labexe/gemm --cpu simple --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67396
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searchsimpleDDR3 configs/proj1/simple.py tests/labexe/binary_search --cpu simple --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67400
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searchsimpleDDR4 configs/proj1/simple.py tests/labexe/binary_search --cpu simple --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67404
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searchsimpleDDR5 configs/proj1/simple.py tests/labexe/binary_search --cpu simple --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67421
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sorto3DDR4 configs/proj1/simple.py tests/labexe/shell_sort --cpu o3 --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67425
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sorto3DDR5 configs/proj1/simple.py tests/labexe/shell_sort --cpu o3 --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67422
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmo3DDR4 configs/proj1/simple.py tests/labexe/gemm --cpu o3 --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67418
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmo3DDR3 configs/proj1/simple.py tests/labexe/gemm --cpu o3 --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67417
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sorto3DDR3 configs/proj1/simple.py tests/labexe/shell_sort --cpu o3 --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67426
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmo3DDR5 configs/proj1/simple.py tests/labexe/gemm --cpu o3 --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67428
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searcho3DDR5 configs/proj1/simple.py tests/labexe/binary_search --cpu o3 --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67420
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searcho3DDR3 configs/proj1/simple.py tests/labexe/binary_search --cpu o3 --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67424
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searcho3DDR4 configs/proj1/simple.py tests/labexe/binary_search --cpu o3 --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67409
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sortminorDDR4 configs/proj1/simple.py tests/labexe/shell_sort --cpu minor --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67410
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmminorDDR4 configs/proj1/simple.py tests/labexe/gemm --cpu minor --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67405
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sortminorDDR3 configs/proj1/simple.py tests/labexe/shell_sort --cpu minor --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67406
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmminorDDR3 configs/proj1/simple.py tests/labexe/gemm --cpu minor --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67413
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/shell_sortminorDDR5 configs/proj1/simple.py tests/labexe/shell_sort --cpu minor --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67414
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/gemmminorDDR5 configs/proj1/simple.py tests/labexe/gemm --cpu minor --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67416
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searchminorDDR5 configs/proj1/simple.py tests/labexe/binary_search --cpu minor --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67408
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searchminorDDR3 configs/proj1/simple.py tests/labexe/binary_search --cpu minor --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67412
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/binary_searchminorDDR4 configs/proj1/simple.py tests/labexe/binary_search --cpu minor --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67399
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfasimpleDDR4 configs/proj1/simple.py tests/labexe/spfa --cpu simple --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67395
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfasimpleDDR3 configs/proj1/simple.py tests/labexe/spfa --cpu simple --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67403
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfasimpleDDR5 configs/proj1/simple.py tests/labexe/spfa --cpu simple --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67423
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfao3DDR4 configs/proj1/simple.py tests/labexe/spfa --cpu o3 --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67419
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfao3DDR3 configs/proj1/simple.py tests/labexe/spfa --cpu o3 --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67427
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfao3DDR5 configs/proj1/simple.py tests/labexe/spfa --cpu o3 --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67415
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfaminorDDR5 configs/proj1/simple.py tests/labexe/spfa --cpu minor --mem DDR5 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67411
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfaminorDDR4 configs/proj1/simple.py tests/labexe/spfa --cpu minor --mem DDR4 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Sep 30 2024 18:56:42
+gem5 started Sep 30 2024 19:30:26
+gem5 executing on 3b7318c717c4, pid 67407
+command line: build/ARM/gem5.opt -d ./results/lab1/PART3/spfaminorDDR3 configs/proj1/simple.py tests/labexe/spfa --cpu minor --mem DDR3 --clock 2GHz
+
+info: Standard input is not a terminal, disabling listeners.
+a thread reached the max instruction count (0) @ 33638020694000
+a thread reached the max instruction count (0) @ 33679031238500
+a thread reached the max instruction count (0) @ 32932572607000
+a thread reached the max instruction count (0) @ 35575071748500
+a thread reached the max instruction count (0) @ 32934622433000
+a thread reached the max instruction count (0) @ 6215528536500
+a thread reached the max instruction count (0) @ 36117358606000
+a thread reached the max instruction count (0) @ 6066239892000
+a thread reached the max instruction count (0) @ 34870757467000
+a thread reached the max instruction count (0) @ 35391568611000
+a thread reached the max instruction count (0) @ 8464335294000
+a thread reached the max instruction count (0) @ 7408806804500
+a thread reached the max instruction count (0) @ 7164030532500
+a thread reached the max instruction count (0) @ 8753249224000
+a thread reached the max instruction count (0) @ 9026413655000
+a thread reached the max instruction count (0) @ 8412103677000
+a thread reached the max instruction count (0) @ 1655801185500
+a thread reached the max instruction count (0) @ 8486526601000
+a thread reached the max instruction count (0) @ 8170093986000
+a thread reached the max instruction count (0) @ 2368022143000
+a thread reached the max instruction count (0) @ 1865330974500
+a thread reached the max instruction count (0) @ 42478636786000
+a thread reached the max instruction count (0) @ 42871266859000
+a thread reached the max instruction count (0) @ 11082410921500
+a thread reached the max instruction count (0) @ 44966642201500
+a thread reached the max instruction count (0) @ 45532382904000
+a thread reached the max instruction count (0) @ 11951440013000
+a thread reached the max instruction count (0) @ 3228527289500
+a thread reached the max instruction count (0) @ 3071746372500
+a thread reached the max instruction count (0) @ 3868933855500
+a thread reached the max instruction count (0) @ 4107444809000
+a thread reached the max instruction count (0) @ 4689537754500
+a thread reached the max instruction count (0) @ 5731220981500
+a thread reached the max instruction count (0) @ 2799003368500
+a thread reached the max instruction count (0) @ 2970372861500
+a thread reached the max instruction count (0) @ 4919778688500
