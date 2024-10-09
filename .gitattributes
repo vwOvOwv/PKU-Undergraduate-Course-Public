@@ -1,19 +1,18 @@
-# 指定文件和文件夹使用 LFS 进行管理
-生物数学建模(Mathematical Modeling in the Life Sciences)/Final filter=lfs diff=lfs merge=lfs -text
-生物数学建模(Mathematical Modeling in the Life Sciences)/Final[[:space:]]Project/Gif[[:space:]]and[[:space:]]Figures/2[[:space:]]BZ[[:space:]]Reaction[[:space:]]Model/BZ[[:space:]]Reaction[[:space:]]Model.gif filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week5/细胞培养+免疫荧光-（细胞课件）.pdf filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week6/图1.ai filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week6/图1.pdf filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week6/细胞周期中微管和微丝的动态变化.docx filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week6/细胞周期中微管和微丝的动态变化.pdf filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week8/实验结果与分析.pptx filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell Biology Lab.)/Week8/小组实验报告.docx filter=lfs diff=lfs merge=lfs -text
-生物数学建模(Mathematical[[:space:]]Modeling[[:space:]]in[[:space:]]the[[:space:]]Life[[:space:]]Sciences)/Final filter=lfs diff=lfs merge=lfs -text
-生物数学建模(Mathematical[[:space:]]Modeling[[:space:]]in[[:space:]]the[[:space:]]Life[[:space:]]Sciences)/Final[[:space:]]Project/Gif[[:space:]]and[[:space:]]Figures/2[[:space:]]BZ[[:space:]]Reaction[[:space:]]Model/BZ[[:space:]]Reaction[[:space:]]Model.gif filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week5/细胞培养+免疫荧光-（细胞课件）.pdf filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week6/图1.ai filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week6/图1.pdf filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week6/细胞周期中微管和微丝的动态变化.docx filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week6/细胞周期中微管和微丝的动态变化.pdf filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week8/实验结果与分析.pptx filter=lfs diff=lfs merge=lfs -text
-细胞生物学实验(Cell[[:space:]]Biology[[:space:]]Lab.)/Week8/小组实验报告.docx filter=lfs diff=lfs merge=lfs -text
+"生物数学建模(Mathematical Modeling in the Life Sciences)/Final" filter=lfs diff=lfs merge=lfs -text
+"生物数学建模(Mathematical Modeling in the Life Sciences)/Final Project/Gif and Figures/2 BZ Reaction Model/BZ Reaction Model.gif" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week5/细胞培养+免疫荧光-（细胞课件）.pdf" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/图1.ai" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/图1.pdf" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/细胞周期中微管和微丝的动态变化.docx" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/细胞周期中微管和微丝的动态变化.pdf" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week8/实验结果与分析.pptx" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week8/小组实验报告.docx" filter=lfs diff=lfs merge=lfs -text
+"生物数学建模(Mathematical Modeling in the Life Sciences)/Final" filter=lfs diff=lfs merge=lfs -text
+"生物数学建模(Mathematical Modeling in the Life Sciences)/Final Project/Gif and Figures/2 BZ Reaction Model/BZ Reaction Model.gif" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week5/细胞培养+免疫荧光-（细胞课件）.pdf" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/图1.ai" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/图1.pdf" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/细胞周期中微管和微丝的动态变化.docx" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week6/细胞周期中微管和微丝的动态变化.pdf" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week8/实验结果与分析.pptx" filter=lfs diff=lfs merge=lfs -text
+"细胞生物学实验(Cell Biology Lab.)/Week8/小组实验报告.docx" filter=lfs diff=lfs merge=lfs -text
